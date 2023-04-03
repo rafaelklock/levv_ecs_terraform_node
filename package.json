@@ -1,0 +1,23 @@
+{
+  "name": "ecsnodeterraform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelklock/ecsnodeterraform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelklock/ecsnodeterraform/issues"
+  },
+  "homepage": "https://github.com/rafaelklock/ecsnodeterraform#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
